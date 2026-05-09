@@ -6,7 +6,7 @@ Built in response to Zalando's 2025 policy change cutting the return window
 from 100 days to 30 days — a shift that created significant operational 
 uncertainty for seller partners with no independent data tools.
 
-🔴 **[Try the live tool →](YOUR_STREAMLIT_URL)**
+🔴 **[Try the live tool →](https://return-radar-xzpldtsqyytl3rfiwsrlne.streamlit.app/)**
 
 ---
 
